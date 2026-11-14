@@ -2,7 +2,7 @@
 window.SHOP = {
   api: "https://script.google.com/macros/s/AKfycbxexVa1pj86fZ2Vap0aIlWI5YzEevzydKiLoMdt0rnp1V9pOtvjX0HGpa62-h4Lxh8VMw/exec",
   offerEnd: "2026-11-17T23:59:59+05:30",
-  guideOffer: 99,
+  guideOffer: 1,
   guideFull: 1,
-  sessionPrice: 599,
+  sessionPrice: 1,
 };
